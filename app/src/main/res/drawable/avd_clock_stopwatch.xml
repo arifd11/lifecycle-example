@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animated-vector xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:aapt="http://schemas.android.com/aapt"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:drawable="@drawable/vd_clock_stopwatch">
+    <target
+        android:name="hand"
+        android:animation="@drawable/avd_clock_stopwatch__0" />
+    <target
+        android:name="button"
+        android:animation="@drawable/avd_clock_stopwatch__1" />
+</animated-vector>
